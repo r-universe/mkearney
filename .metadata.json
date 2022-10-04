@@ -16,10 +16,6 @@
     "oncran": true
   },
   {
-    "package": "readthat",
-    "oncran": true
-  },
-  {
     "package": "textfeatures",
     "oncran": true
   },

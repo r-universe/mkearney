@@ -23,11 +23,6 @@
 	url = https://github.com/mkearney/pkgverse
 	shallow = true
 	registered = true
-[submodule "readthat"]
-	path = readthat
-	url = https://github.com/mkearney/readthat
-	shallow = true
-	registered = true
 [submodule "textfeatures"]
 	path = textfeatures
 	url = https://github.com/mkearney/textfeatures
