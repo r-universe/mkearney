@@ -1,10 +1,6 @@
 [
   {
-    "package": "pkgverse",
-    "oncran": true
-  },
-  {
-    "package": "wactor",
+    "package": "dapr",
     "oncran": true
   },
   {
@@ -12,7 +8,11 @@
     "oncran": true
   },
   {
-    "package": "dapr",
+    "package": "googler",
+    "oncran": true
+  },
+  {
+    "package": "pkgverse",
     "oncran": true
   },
   {
@@ -20,11 +20,11 @@
     "oncran": true
   },
   {
-    "package": "googler",
+    "package": "tfse",
     "oncran": true
   },
   {
-    "package": "tfse",
+    "package": "wactor",
     "oncran": true
   }
 ]
