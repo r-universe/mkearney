@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dapr"]
 	path = dapr
 	url = https://github.com/mkearney/dapr
-	shallow = true
-	registered = true
 [submodule "funique"]
 	path = funique
 	url = https://github.com/mkearney/funique
-	shallow = true
-	registered = true
 [submodule "googler"]
 	path = googler
 	url = https://github.com/mkearney/googler
-	shallow = true
-	registered = true
 [submodule "pkgverse"]
 	path = pkgverse
 	url = https://github.com/mkearney/pkgverse
-	shallow = true
-	registered = true
 [submodule "textfeatures"]
 	path = textfeatures
 	url = https://github.com/mkearney/textfeatures
-	shallow = true
-	registered = true
 [submodule "tfse"]
 	path = tfse
 	url = https://github.com/mkearney/tfse
-	shallow = true
-	registered = true
 [submodule "wactor"]
 	path = wactor
 	url = https://github.com/mkearney/wactor
-	shallow = true
-	registered = true
