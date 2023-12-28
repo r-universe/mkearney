@@ -14,9 +14,6 @@
 [submodule "pkgverse"]
 	path = pkgverse
 	url = https://github.com/mkearney/pkgverse
-[submodule "textfeatures"]
-	path = textfeatures
-	url = https://github.com/mkearney/textfeatures
 [submodule "tfse"]
 	path = tfse
 	url = https://github.com/mkearney/tfse
