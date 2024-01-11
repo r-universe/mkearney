@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dapr"]
-	path = dapr
-	url = https://github.com/mkearney/dapr
 [submodule "funique"]
 	path = funique
 	url = https://github.com/mkearney/funique
@@ -14,9 +11,6 @@
 [submodule "pkgverse"]
 	path = pkgverse
 	url = https://github.com/mkearney/pkgverse
-[submodule "tfse"]
-	path = tfse
-	url = https://github.com/mkearney/tfse
 [submodule "wactor"]
 	path = wactor
 	url = https://github.com/mkearney/wactor
